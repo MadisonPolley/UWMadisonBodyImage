@@ -12,7 +12,9 @@ library(knitr)
 
 # Data Preview
 
-## The data we have chosen for this project consists of 48 questions asked in the survey as well as several variables pertaining to when the participants took the survey and whether they finished the whole survey. There are 5,346 observations in our dataset.
+## The data we have chosen for this project consists of 48 questions asked in the survey 
+## as well as several variables pertaining to when the participants took the survey and 
+## whether they finished the whole survey. There are 5,346 observations in our dataset.
 
 ## Data Link: https://github.com/MadisonPolley/UWMadisonBodyImage
 
