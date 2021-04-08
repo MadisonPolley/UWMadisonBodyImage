@@ -1,0 +1,23 @@
+---
+title: "Body Image Data Preview"
+author: "Juliana Brandt and Madison Polley"
+date: "3/24/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+```
+
+# Data Preview
+
+## The data we have chosen for this project consists of 48 questions asked in the survey as well as several variables pertaining to when the participants took the survey and whether they finished the whole survey. There are 5,346 observations in our dataset.
+
+## Data Link: https://github.com/MadisonPolley/UWMadisonBodyImage
+
+```{r}
+data = read.csv("bodyimagerawdata.csv")
+head(data)
+```
+
